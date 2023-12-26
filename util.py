@@ -1,3 +1,4 @@
+#a useful utility program for detecting the range of colors we want
 import numpy as np
 import cv2
 
